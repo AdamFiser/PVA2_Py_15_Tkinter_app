@@ -18,10 +18,10 @@ Po odeslání zobrazíte zadané údaje.
 
 Za využití efektivních metod nakreslete vlajku Řecka a Izraele.
 
-### 4
+### 4 - Hodnocený úkol
 Od uživatele si vyžádejte počet kruhů a podle něj vykreslete obrazec viz obrázek.
 
-### 5
+### 5 - Pro odvážné
 Naprogramujte kalkulačku. Kalkulačku budete ovládat přes tlačítka. Výraz a výsledek se bude zobrazovat v textovém poli.
 
 Nápověda:
